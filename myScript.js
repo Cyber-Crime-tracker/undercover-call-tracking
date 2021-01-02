@@ -15,36 +15,36 @@ function ss(){
 			
 			else if(a=="611916D7"){
 			
-				document.getElementById("demo1").innerHTML="<audio controls><source src=priya1.mp3 type=audio/mp3></audio>";
+				document.getElementById("demo1").innerHTML="<audio controls><source src=call/priya1.mp3 type=audio/mp3></audio>";
 			
 			}
 			
 			else if(a=="2156ACEA"){
 			
-				document.getElementById("demo1").innerHTML="<audio controls><source src=priya2.mp3 type=audio/mp3></audio>";
+				document.getElementById("demo1").innerHTML="<audio controls><source src=call/priya2.mp3 type=audio/mp3></audio>";
 			
 			
 			}
 			
 			else if(a=="5D8FFCC8"){
 			
-				document.getElementById("demo1").innerHTML="<audio controls><source src=priya3.mp3 type=audio/mp3></audio>";
+				document.getElementById("demo1").innerHTML="<audio controls><source src=call/priya3.mp3 type=audio/mp3></audio>";
 			}
 			
 			else if(a=="D21971F7"){
 			
-				document.getElementById("demo1").innerHTML="<audio controls><source src=priya4.mp3 type=audio/mp3></audio>";
+				document.getElementById("demo1").innerHTML="<audio controls><source src=call/priya4.mp3 type=audio/mp3></audio>";
 			
 			}
 			
 			else if(a=="O2A6CC3A"){
 			
-				document.getElementById("demo1").innerHTML="<audio controls><source src=priya5.mp3 type=audio/mp3></audio>";
+				document.getElementById("demo1").innerHTML="<audio controls><source src=call/priya5.mp3 type=audio/mp3></audio>";
 			}
 				
 			else if(a=="3DBF1472"){
 			
-				document.getElementById("demo1").innerHTML="<audio controls><source src=priya6.mp3 type=audio/mp3></audio>";
+				document.getElementById("demo1").innerHTML="<audio controls><source src=call/priya6.mp3 type=audio/mp3></audio>";
 			}
 				
 			else if(a=="CE667DA1"){
