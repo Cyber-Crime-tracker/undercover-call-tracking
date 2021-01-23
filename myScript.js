@@ -1,6 +1,7 @@
 function ss(){
 			var a=document.getElementById("demo").value;
-			if(a=="CSG57309"){
+			var b=document.getElementById("demo2").value;
+			if(a=="CSG57309" && b=="192.168.72.97"){
 				document.getElementById("demo1").innerHTML="<audio controls><source src=index.mp3 type=audio/mp3></audio><div><p style=color:blue>Call tracked by K.AFREEN (Network Hacker)</p></div>";
 				
 			
