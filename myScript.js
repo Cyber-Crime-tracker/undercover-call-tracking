@@ -2,7 +2,7 @@ function ss(){
 			var a=document.getElementById("demo").value;
 			var b=document.getElementById("demo2").value;
 			if(a=="CSG57309" && b=="192.168.72.97"){
-				document.getElementById("demo1").innerHTML="<audio controls><source src=call/sandeep.mp3 type=audio/mp3></audio><div style=text-align:left;padding-left:200px><p>Call tracked by <p style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p>Tracked Date: 14/07/2019</p><br><p>Type: Outgoing</p><br><p>Duration: 00:13:32</p></div>";
+				document.getElementById("demo1").innerHTML="<audio controls controlsList=nodownload><source src=call/sandeep.mp3 type=audio/mp3></audio><div style=text-align:left;padding-left:200px><p>Call tracked by <p style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p>Tracked Date: 14/07/2019</p><br><p>Type: Outgoing</p><br><p>Duration: 00:13:32</p></div>";
 				
 			
 			}
@@ -34,7 +34,7 @@ function ss(){
 			
 			else if(a=="D21971F7"){
 			
-				document.getElementById("demo1").innerHTML="<audio controls><source src=call/priya4.mp3 type=audio/mp3></audio>";
+				document.getElementById("demo1").innerHTML="<audio controls controlsList=nodownload><source src=call/priya4.mp3 type=audio/mp3></audio>";
 			
 			}
 			
