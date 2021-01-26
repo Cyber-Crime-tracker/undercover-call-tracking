@@ -61,7 +61,7 @@ function ss(){
 			
 			
 			else{
-			document.getElementById("demo1").innerHTML="<p>Enter Correct Id to Track Audio</p>";
+			document.getElementById("demo1").innerHTML="<p style=color:red;>Enter Correct Recorder IP & ID to Track Audio</p>";
 			}
 			
 			}
