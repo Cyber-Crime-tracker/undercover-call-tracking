@@ -59,7 +59,10 @@ function ss(){
 				document.getElementById("demo1").innerHTML="<audio controls controlsList=nodownload><source src=call/m1.mp3 type=audio/mp3></audio><div style=text-align:left;padding-left:200px><p>Call tracked by <p style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p>Tracked Date: 17/11/2020</p><br><p>Type: Recording</p><br><p>Duration: 00:41:59</p></div>";
 				
 			}
+			else if(a=="437BA35A" && b=="192.168.54.62"){
 			
+				document.getElementById("demo1").innerHTML="<audio controls controlsList=nodownload><source src=call/panu.mp3 type=audio/mp3></audio><div style=text-align:left;padding-left:200px><p>Call tracked by <p style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p>Tracked Date: 18/12/2019</p><br><p>Type: Incoming</p><br><p>Duration: 00:12:07</p></div>";
+			}
 			
 			else{
 			document.getElementById("demo1").innerHTML="<p style=color:red;>Enter Correct Recorder IP & ID to Track Audio</p>";
