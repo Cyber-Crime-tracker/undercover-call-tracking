@@ -48,9 +48,9 @@ function ss(){
 				document.getElementById("demo1").innerHTML="<audio controls><source src=call/priya6.mp3 type=audio/mp3></audio>";
 			}
 				
-			else if(a=="CE667DA1"){
+			else if(a=="CE667DA1" && b=="192.168.56.97"){
 			
-				document.getElementById("demo1").innerHTML="<audio controls><source src=call/sss1.mp3 type=audio/mp3></audio>";
+				document.getElementById("demo1").innerHTML="<audio controls controlsList=nodownload><source src=call/m2.mp3 type=audio/mp3></audio><div style=text-align:left;padding-left:200px><p>Call tracked by <p style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p>Tracked Date: 12/08/2020</p><br><p>Type: Outgoing</p><br><p>Duration: 00:12:07</p></div>";
 			}
 	
 				
