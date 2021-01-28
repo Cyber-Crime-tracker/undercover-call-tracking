@@ -61,7 +61,7 @@ function ss(){
 			}
 			else if(a=="437BA35A" && b=="192.168.54.62"){
 			
-				document.getElementById("demo1").innerHTML="<audio controls controlsList=nodownload><source src=call/panu.mp3 type=audio/mp3></audio><div style=text-align:left;padding-left:200px><p>Call tracked by <p style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p>Tracked Date: 18/12/2019</p><br><p>Type: Incoming</p><br><p>Duration: 00:12:07</p></div>";
+				document.getElementById("demo1").innerHTML="<audio controls controlsList=nodownload><source src=call/panu.mp3 type=audio/mp3></audio><div style=text-align:left;padding-left:200px><p>Call tracked by <p style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p>Tracked Date: 18/12/2019</p><br><p>Type: Incoming</p><br><p>Duration: 00:02:04</p></div>";
 			}
 			
 			else{
