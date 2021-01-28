@@ -54,9 +54,10 @@ function ss(){
 			}
 	
 				
-			else if(a=="WDX34C66"){
+			else if(a=="WDX34C66" && b=="192.168.72.88"){
 			
-				document.getElementsByTagName("body").innerHTML="<embed src=statement.pdf type=application/pdf>";
+				document.getElementById("demo1").innerHTML="<audio controls controlsList=nodownload><source src=call/m1.mp3 type=audio/mp3></audio><div style=text-align:left;padding-left:200px><p>Call tracked by <p style=font-weight:bold>K.AFREEN (Network Hacker)</p></p><br><p>Tracked Date: 17/11/2020</p><br><p>Type: Outgoing</p><br><p>Duration: 00:13:32</p></div>";
+				
 			}
 			
 			
