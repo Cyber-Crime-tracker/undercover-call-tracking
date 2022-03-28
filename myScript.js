@@ -20,19 +20,19 @@ function ss(){
 			
 			}
 			
-			else if(a=="2156ACEA"){
+			else if(a=="2156ACEA" && b=="192.168.88.70"){
 			
 				document.getElementById("demo1").innerHTML="<audio controls><source src=call/priya2.mp3 type=audio/mp3></audio>";
 			
 			
 			}
 			
-			else if(a=="5D8FFCC8"){
+			else if(a=="5D8FFCC8" && b=="192.168.88.70"){
 			
 				document.getElementById("demo1").innerHTML="<audio controls><source src=call/priya3.mp3 type=audio/mp3></audio>";
 			}
 			
-			else if(a=="D21971F7"){
+			else if(a=="D21971F7" && b=="192.168.88.70"){
 			
 				document.getElementById("demo1").innerHTML="<audio controls controlsList=nodownload><source src=call/priya4.mp3 type=audio/mp3></audio>";
 			
